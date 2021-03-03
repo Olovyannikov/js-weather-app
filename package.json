@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "prod" : "node index.js"
+    "prod": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/Olovyannikov/js-weather-app#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
     "express": "^4.17.1"
   },
   "devDependencies": {
