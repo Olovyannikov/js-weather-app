@@ -1,0 +1,31 @@
+{
+  "name": "js-weather-app",
+  "version": "0.0.1",
+  "description": "NodeJS basic Weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olovyannikov/js-weather-app.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "node",
+    "javascript"
+  ],
+  "author": "Olovyannikov Ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olovyannikov/js-weather-app/issues"
+  },
+  "homepage": "https://github.com/Olovyannikov/js-weather-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
